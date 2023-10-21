@@ -1,0 +1,14 @@
+{
+  "name": "Self Destruct",
+  "description": "A plugin that deletes itself when installed",
+  "authors": [
+    {
+      "name": "nexpid",
+      "id": "853550207039832084"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "placeholder"
+  }
+}
